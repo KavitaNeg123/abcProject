@@ -1,0 +1,29 @@
+/* styles/globals.css */
+
+@font-face {
+    font-family: 'Europa';
+    src: url('/fonts/Europa-Bold.woff2') format('woff2'),
+         url('/fonts/Europa-Bold.woff') format('woff'),
+         url('/fonts/Europa-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Europa';
+    src: url('/fonts/Europa-Regular.woff2') format('woff2'),
+         url('/fonts/Europa-Regular.woff') format('woff'),
+         url('/fonts/Europa-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Europa';
+    src: url('/fonts/Europa-Light.woff2') format('woff2'),
+         url('/fonts/Europa-Light.woff') format('woff'),
+         url('/fonts/Europa-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+  }
+  
